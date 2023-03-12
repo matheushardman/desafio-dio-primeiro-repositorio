@@ -3,7 +3,7 @@
 
 Olá! Bem vindo ao meu repositório de estudo.
 
-Você encontrará pastas para cada módulo em que fiz anotações pertinentes sobre os temas
+Você encontrará pastas para cada módulo em que fiz anotações pertinentes sobre os temas.
 
 Lista de pastas:
 
@@ -12,11 +12,11 @@ Lista de pastas:
 <br>
 
 
-Além disso, adicionei um arquivo chamado "ComandosGIT.md" com os comandos do Git que utilizei para criar e fazer a manutenção deste repositório
+Além disso, adicionei um arquivo chamado "ComandosGIT.md" com os comandos do Git que utilizei para criar e fazer a manutenção deste repositório.
 
 <br>
 
-Links úteis:
+#### Links úteis:
 
 [Git Download](https://git-scm.com/downloads)
 
