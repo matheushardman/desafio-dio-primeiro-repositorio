@@ -8,11 +8,20 @@ Você encontrará pastas para cada módulo em que fiz anotações pertinentes so
 Lista de pastas:
 
 - Prepara-se Para a Jornada
-- Princípios de Desenvolvimento de Software
+
+  
 
 Além disso, adicionei um arquivo chamado "ComandosGIT.md" com os comandos do Git que utilizei para criar e fazer a manutenção deste repositório
 
 
+
+Links úteis:
+
+[Git Download] (https://git-scm.com/downloads)
+
+[Github] (https://github.com)
+
+[Markdown - Sintaxe Básica] (https://www.markdownguide.org/basic-syntax/)
 
 
 
