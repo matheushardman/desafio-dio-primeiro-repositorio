@@ -9,9 +9,14 @@ Lista de pastas:
 
 - Prepara-se Para a Jornada
 
-  
+
+
+
+
 
 Além disso, adicionei um arquivo chamado "ComandosGIT.md" com os comandos do Git que utilizei para criar e fazer a manutenção deste repositório
+
+
 
 
 
@@ -22,6 +27,3 @@ Links úteis:
 [Github] (https://github.com)
 
 [Markdown - Sintaxe Básica] (https://www.markdownguide.org/basic-syntax/)
-
-
-
