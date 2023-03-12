@@ -18,6 +18,7 @@ Profissionais que atuam durante o processo de desenvolvimento de software:
   - Responsável por desenvolver por meio de código uma interface gráfica, normalmente com tecnologias base da Web (HTML, CSS e JavaScript)
 - Back-end
   - Trabalha em boa parte dos casos, fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras do negócio, validações e garantias num ambiente restrito ao usuário
+  - Atuam diretamente no envio de respostas as requisições feitas pelo cliente no modelo Cliente-Servidor
   - Application Programming Interface (API) é um intermediário de software que permite dois aplicativos interagirem entre si.
 - Fullstack
   - Profissional com experiência vasta que desenvolve tanto o back-end quanto o front-end
