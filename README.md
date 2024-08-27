@@ -11,7 +11,7 @@ Lista de pastas:
 
 <br>
 
-Além disso, adicionei um arquivo chamado "ComandosGIT.md" com os comandos do Git que utilizei para criar e fazer a manutenção deste repositório.
+Além disso, adicionei um arquivo com os comandos do Git que utilizei para criar e fazer a manutenção deste repositório, pode ser acessado no link a seguir:
 
 [Comandos GIT](https://github.com/matheushardman/desafio-dio-primeiro-repositorio/blob/main/ComandosGIT.md)
 
