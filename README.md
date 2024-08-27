@@ -15,8 +15,6 @@ Além disso, adicionei um arquivo chamado "ComandosGIT.md" com os comandos do Gi
 
 [Comandos GIT](https://github.com/matheushardman/desafio-dio-primeiro-repositorio/blob/main/ComandosGIT.md)
 
-<br>
-
 #### Links úteis:
 
 [Git Download](https://git-scm.com/downloads)
